@@ -2,7 +2,7 @@
 # favicon
 favicon = "https://cdn.discordapp.com/attachments/1148600287989342268/1149625913714159686/vjery-media-logo-transparant.png"
 # logo
-logo = "https://cdn.discordapp.com/attachments/1148600287989342268/1149625913714159686/vjery-media-logo-transparant.png"
+logo = ""
 # use `x` with logo_width, example: "100x".
 # Note: logo_width is not work with .svg file
 logo_width = "200x"
