@@ -5,7 +5,7 @@ favicon = ""
 logo = "images/vjery-media-logo-transparant.png"
 # use `x` with logo_width, example: "100x".
 # Note: logo_width is not work with .svg file
-logo_width = "200x"
+logo_width = "100x"
 # logo text will only show when logo is missing.
 logo_text = "Vjery Media"
 # navbar fixed to top
