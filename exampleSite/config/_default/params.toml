@@ -97,8 +97,8 @@ newsletter_reminder_a = "Bij het aanmelden, Ga je akkoord met de"
 newsletter_reminder_b = "Privacy Policy"
 newsletter_button = "Aanmelden"
 # mailchimp subsciption
-mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
-mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
+mailchimp_form_action = "https://gmail.us21.list-manage.com/subscribe/post?u=cef4d70f83a52026fae91f2f1&amp;id=5ba5d02106" # replace this url with yours
+mailchimp_form_name = "cef4d70f83a52026fae91f2f1" # replace this code with yours
 
 
 ############################# social site ########################
