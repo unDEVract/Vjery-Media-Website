@@ -1,5 +1,5 @@
 ---
-title: "Ontslaan van Vjery Media.."
+title: "Ontstaan van Vjery Media."
 description: "meta description"
 image: "images/post/Vjery-Media_mockup-01.jpg"
 date: 2021-01-24T18:19:25+06:00
