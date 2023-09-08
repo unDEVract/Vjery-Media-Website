@@ -76,7 +76,7 @@ link = "mailto:colab@vjery.org"
 
 # cookies
 [cookies]
-enable = false
+enable = true
 expire_days = 2
 content = "Onze website maakt gebruik van cookies. 🍪 Bij het gebruik maken van deze website ga je hiermee automatisch akkoord."
 button = "Accepteren"
