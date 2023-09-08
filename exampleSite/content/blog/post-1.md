@@ -1,7 +1,7 @@
 ---
-title: "Artificial Intelligence and Robotics In A Nutshell"
+title: "Ontslaan van Vjery Media.."
 description: "meta description"
-image: "images/post/post-1.png"
+image: "images/post/Vjery-Media_mockup-01.jpg"
 date: 2021-01-24T18:19:25+06:00
 categories: ["programming"]
 tags: ["tech", "ai"]
