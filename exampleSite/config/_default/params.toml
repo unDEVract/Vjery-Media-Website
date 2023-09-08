@@ -50,7 +50,7 @@ theme_copyright = true
 copyright = "©️ Copyrighted by Vjery Media - 2023"
 
 # 404
-error_404_text = "Whoeps! Pagina is niet gevonden!"
+error_404_text = "Whoeps! Pagina is niet gevonden."
 error_404_button = "Breng me terug"
 
 # Preloader
