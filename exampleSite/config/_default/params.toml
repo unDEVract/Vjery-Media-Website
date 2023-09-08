@@ -2,7 +2,7 @@
 # favicon
 favicon = "images/favicon.png"
 # logo
-logo = "images/vjery-media-logo-transparant.png"
+logo = "https://cdn.discordapp.com/attachments/1148600287989342268/1149625913714159686/vjery-media-logo-transparant.png"
 # use `x` with logo_width, example: "100x".
 # Note: logo_width is not work with .svg file
 logo_width = "150x"
@@ -13,7 +13,7 @@ navbar_fixed = false
 # OpenGraph / Twitter Card metadata
 description = "This is meta description"
 author = "Themefisher"
-image = "images/vjery-media-logo-transparant.png" # this image will be used as fallback if a page has no image of its own
+image = "https://cdn.discordapp.com/attachments/1148600287989342268/1149625913714159686/vjery-media-logo-transparant.png" # this image will be used as fallback if a page has no image of its own
 # contact info
 address = "Tilburg, The Netherlands"
 mobile = "(0)85 000 00 000"
