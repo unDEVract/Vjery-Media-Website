@@ -5,7 +5,7 @@ favicon = "images/favicon.png"
 logo = "https://cdn.discordapp.com/attachments/1148600287989342268/1149625913714159686/vjery-media-logo-transparant.png"
 # use `x` with logo_width, example: "100x".
 # Note: logo_width is not work with .svg file
-logo_width = "150x"
+logo_width = "100x"
 # logo text will only show when logo is missing.
 logo_text = "Vjery Media"
 # navbar fixed to top
