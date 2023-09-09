@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://demo.statichunt.com/geeky-hugo/"
+baseURL = "https://vjery.org/"
 title = "Vjery Media | Het actuele nieuws lees je hier!"
 theme = "geeky-hugo"
 languageName = "En"
