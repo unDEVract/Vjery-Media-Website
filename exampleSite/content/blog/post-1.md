@@ -3,8 +3,8 @@ title: "Ontstaan van Vjery Media."
 description: "meta description"
 image: "images/post/Vjery-Media_mockup-01.jpg"
 date: 2023-09-08T17:09:15+06:00
-categories: ["programming"]
-tags: ["tech", "ai"]
+categories: ["vjery news"]
+tags: ["vjery", "news", "company"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---
